@@ -1,1 +1,1 @@
-# curso-p-thon-django
+# curso-python-django
