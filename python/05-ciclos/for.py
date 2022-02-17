@@ -12,3 +12,4 @@ mascotas = {
 
 for key in mascotas.keys():
     print("Nombre: {}\n\tedad: {} \n\traza: {} \n\tsexo: {}".format(key, mascotas[key][0],mascotas[key][1],mascotas[key][2]))
+ 
