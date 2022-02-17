@@ -1,0 +1,6 @@
+pedro, 23
+juan, 14
+laura, 31
+ariel, 11
+silvia, 8
+carmen, 2
